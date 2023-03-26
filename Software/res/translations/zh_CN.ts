@@ -995,7 +995,7 @@ Internally emulates the effects of f.lux, redshift, Night Light, Night Shift...<
     <message>
         <location filename="../../src/SettingsWindow.ui" line="3013"/>
         <source>&lt;h2&gt;Prismatik (unofficial fork)&lt;/h2&gt;</source>
-        <translation type="unfinished">&lt;h2&gt;电脑声光同步灯带&lt;/h2&gt;</translation>
+        <translation type="unfinished">&lt;h2&gt;电脑声光同步灯带控制程序&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../../src/SettingsWindow.ui" line="3047"/>
