@@ -590,7 +590,7 @@ You still will be able to place capturing zones manually.</source>
     <message>
         <location filename="../../src/SettingsWindow.ui" line="2583"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This tab is used for experimental and unstable features. Any tuning with these controls may cause inevitable plane crash, miscarriage or nuclear disaster. Use it at your own risk.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;此选项卡用于实验性和不稳定的功能。 对这些控件的任何调整都可能导致不可避免的飞机失事、流产或核灾难。 需要您自担风险使用它。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;实验性选项，一般情况下不需要设置。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../src/SettingsWindow.ui" line="2639"/>
@@ -995,7 +995,7 @@ Internally emulates the effects of f.lux, redshift, Night Light, Night Shift...<
     <message>
         <location filename="../../src/SettingsWindow.ui" line="3013"/>
         <source>&lt;h2&gt;Prismatik (unofficial fork)&lt;/h2&gt;</source>
-        <translation type="unfinished">&lt;h2&gt;Prismatik (非官方分叉)  汉化JOYIST&lt;/h2&gt;</translation>
+        <translation type="unfinished">&lt;h2&gt;电脑声光同步灯带&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../../src/SettingsWindow.ui" line="3047"/>
@@ -1161,7 +1161,7 @@ Note: You can disable this message by enabling expert mode.</source>
         <location filename="../../src/SettingsWindow.cpp" line="786"/>
         <location filename="../../src/SettingsWindow.cpp" line="823"/>
         <source>Turn lights OFF</source>
-        <translation>关闭灯</translation>
+        <translation>关灯</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt; &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt; p, li { white-space: pre-wrap; } &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt; &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;software &lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;%1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; (revision &lt;/span&gt;&lt;a href=&quot;https://github.com/woodenshark/Lightpack/commit/%2&quot;&gt;&lt;span style=&quot; font-size:8pt; text-decoration: underline; color:#0000ff;&quot;&gt;%2 &lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;), firmware &lt;b&gt;%3&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1174,7 +1174,7 @@ Note: You can disable this message by enabling expert mode.</source>
     <message>
         <location filename="../../src/SettingsWindow.cpp" line="815"/>
         <source>Turn lights ON</source>
-        <translation>打开灯</translation>
+        <translation>开灯</translation>
     </message>
     <message>
         <source>Application already running</source>
@@ -1383,7 +1383,7 @@ Note: You can disable this message by enabling expert mode.</source>
         <location filename="../../src/systrayicon/SysTrayIcon.cpp" line="127"/>
         <location filename="../../src/systrayicon/SysTrayIcon.cpp" line="328"/>
         <source>&amp;Turn off</source>
-        <translation type="unfinished">&amp;关掉</translation>
+        <translation type="unfinished">&amp;关闭</translation>
     </message>
     <message>
         <location filename="../../src/systrayicon/SysTrayIcon.cpp" line="128"/>
@@ -1615,7 +1615,7 @@ Mode tab &gt; Screen grabbing mode &gt; Grab widget adjustment&lt;/p&gt;&lt;/td&
     <message>
         <location filename="../../src/wizard/ZonePlacementPage.ui" line="253"/>
         <source>Bottom gap</source>
-        <translation type="unfinished">底部间隙</translation>
+        <translation type="unfinished">底部空白</translation>
     </message>
     <message>
         <location filename="../../src/wizard/ZonePlacementPage.ui" line="305"/>

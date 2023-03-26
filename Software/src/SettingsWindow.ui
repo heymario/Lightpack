@@ -3044,7 +3044,7 @@ Internally emulates the effects of f.lux, redshift, Night Light, Night Shift...<
            <enum>Qt::RichText</enum>
           </property>
           <property name="alignment">
-           <set>Qt::AlignCenter</set>
+           <!-- <set>Qt::AlignCenter</set> -->
           </property>
           <property name="wordWrap">
            <bool>true</bool>
@@ -3088,7 +3088,7 @@ Internally emulates the effects of f.lux, redshift, Night Light, Night Shift...<
            </sizepolicy>
           </property>
           <property name="text">
-           <string notr="true">&lt;a href=&quot;https://github.com/psieg/Lightpack&quot;&gt;github.com/psieg/Lightpack&lt;/a&gt; &lt;a href=&quot;http://lightpack.tv/&quot;&gt;lightpack.tv&lt;/a&gt;</string>
+           <string notr="true">&lt;a href=&quot;https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fft%3Dt%26id%3D708891269011&quot;&gt;推荐灯带购买&lt;/a&gt;</string>
           </property>
           <property name="alignment">
            <set>Qt::AlignCenter</set>
